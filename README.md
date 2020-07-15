@@ -6,8 +6,8 @@
 
 ## :rocket: Construido por
 <div align="center">
- :computer: Jean1dev
- :computer: AugustoSavi
+ :computer: Jean1dev <br>
+ :computer: AugustoSavi <br>
  :art: mbleffa
 </div>
 
