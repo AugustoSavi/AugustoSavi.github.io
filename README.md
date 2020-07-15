@@ -1,9 +1,9 @@
+[Acesso ao Demo da Aplicação](https://augustosavi.github.io)
+
 # Machine Turing
  * Jean1dev
  * AugustoSavi
  * mbleffa
-
-[Acesso o Demo da Aplicação](https://augustosavi.github.io)
 
 # Referencias 
 https://medium.com/@chad.palmer/a-complete-web-page-building-a-turing-machine-in-javascript-d6c32d3708c4?source=friends_link&sk=7569f7204799328c676614eb1b992830
