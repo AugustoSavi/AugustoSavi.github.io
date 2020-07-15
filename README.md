@@ -2,7 +2,10 @@
     Maquina de Turing - Teoria da computaçāo
 </h1>
 
+## :rocket: [Video Explicativo](https://youtu.be/BZHhdkhuRRk)
+
 ## :rocket: [Acesso ao Demo da Aplicação](https://augustosavi.github.io)
+
 
 ## :rocket: Construido por
 <div align="center">
@@ -69,7 +72,7 @@ $ git clone https://github.com/AugustoSavi/AugustoSavi.github.io.git
 -------10101 + 11100 = 110001 (21 + 28 = 49):-------
 
 fita: 1 0 1 0 1 B 1 1 1 0 0
-estado: s10
+estado: s1 10
 
 {
     "s1": {
