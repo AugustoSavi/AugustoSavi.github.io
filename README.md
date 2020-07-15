@@ -2,7 +2,9 @@
  * Jean1dev
  * AugustoSavi
  * mbleffa
-    
+
+[Link Demo](AugustoSavi.github.io)
+
 # Referencias 
 https://medium.com/@chad.palmer/a-complete-web-page-building-a-turing-machine-in-javascript-d6c32d3708c4?source=friends_link&sk=7569f7204799328c676614eb1b992830
 
