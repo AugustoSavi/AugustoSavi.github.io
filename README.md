@@ -6,9 +6,9 @@
 
 ## :rocket: Construido por
 <div align="center">
- * Jean1dev
- * AugustoSavi
- * mbleffa
+ :computer: Jean1dev
+ :computer: AugustoSavi
+ :art: mbleffa
 </div>
 
 ## :information_source:  # Referencias 
