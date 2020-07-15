@@ -1,11 +1,17 @@
-[Acesso ao Demo da Aplicação](https://augustosavi.github.io)
+<h1 align="center">
+    Maquina de Turing - Teoria da computaçāo
+</h1>
 
-# Machine Turing
+## :rocket: [Acesso ao Demo da Aplicação](https://augustosavi.github.io)
+
+## :rocket: Construido por
+<div align="center">
  * Jean1dev
  * AugustoSavi
  * mbleffa
+</div>
 
-# Referencias 
+## :information_source:  # Referencias 
 https://medium.com/@chad.palmer/a-complete-web-page-building-a-turing-machine-in-javascript-d6c32d3708c4?source=friends_link&sk=7569f7204799328c676614eb1b992830
 
 http://vanilla-js.blogspot.com/2016/04/javascript-turing-machine.html
@@ -18,13 +24,23 @@ https://github.com/awmorp/jsturing
 
 https://github.com/VittGam/JSTMSimulator
 
-# Tecnologias Usadas
-
+## :information_source:  Tecnologias Usadas
+![](https://img.shields.io/github/issues/AugustoSavi/AugustoSavi.github.io.git)
 * JavaScript
 * html
 * css
 
-# Exemplo
+## :information_source: Executando localmente
+To clone and run this application, you'll need [Git](https://git-scm.com),. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/AugustoSavi/AugustoSavi.github.io.git
+
+# Abra o arquivo index.html na raiz do projeto
+```
+
+## :information_source: # Exemplos
 ```
 -------Incrementando +1 em binario-------
  fita: 1 0 1 1
