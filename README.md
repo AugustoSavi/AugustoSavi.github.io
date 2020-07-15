@@ -17,12 +17,12 @@ https://github.com/VittGam/JSTMSimulator
 
 # Tecnologias Usadas
 
-JavaScript
-html
-css
+* JavaScript
+* html
+* css
 
 # Exemplo
-
+```
 -------Incrementando +1 em binario-------
  fita: 1 0 1 1
  estado: s1 0
@@ -120,3 +120,4 @@ estado: s10
         "y": ["s10", "y", "R"]
     }
 }
+´´´
